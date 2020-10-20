@@ -73,3 +73,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 XT_Trainer/Saved/AutoScreenshot.png
+XT_Trainer/Saved/Config/Windows/EditorPerProjectUserSettings.ini
