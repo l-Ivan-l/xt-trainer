@@ -1,0 +1,220 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'",
+		"Package'/Script/HeadMountedDisplay'",
+		"Package'/Script/InputCore'",
+		"Package'/Script/NavigationSystem'",
+		"Package'/Script/AnimGraphRuntime'",
+		"Package'/Script/ClothingSystemRuntimeNv'",
+		"Package'/Script/SteamVR'",
+		"Package'/Script/SlateCore'",
+		"Package'/Script/Landscape'",
+		"Package'/Script/StaticMeshDescription'",
+		"Package'/Script/MeshDescription'",
+		"Package'/Script/UMG'",
+		"Package'/Script/AudioPlatformConfiguration'",
+		"Package'/Script/AudioExtensions'",
+		"Package'/Script/AIModule'",
+		"Package'/Script/GameplayTasks'",
+		"Package'/Script/GameplayTags'",
+		"Package'/Script/ClothingSystemRuntimeInterface'",
+		"Package'/Script/PropertyPath'",
+		"Package'/Script/MovieScene'",
+		"Package'/Script/Slate'"
+	],
+	"convertedAssets":
+	{
+		"/Niagara/Enums/ENiagaraCoordinateSpace.ENiagaraCoordinateSpace":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraCoordinateSpace.ENiagaraCoordinateSpace",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENiagaraCoordinateSpace__pf2855420827.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENiagaraCoordinateSpace__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraOrientationAxis.ENiagaraOrientationAxis":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraOrientationAxis.ENiagaraOrientationAxis",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENiagaraOrientationAxis__pf2855420827.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENiagaraOrientationAxis__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraBooleanLogicOps.ENiagaraBooleanLogicOps":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraBooleanLogicOps.ENiagaraBooleanLogicOps",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENiagaraBooleanLogicOps__pf2855420827.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENiagaraBooleanLogicOps__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENiagaraRandomnessMode__pf2855420827.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENiagaraRandomnessMode__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraExpansionMode.ENiagaraExpansionMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraExpansionMode.ENiagaraExpansionMode",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENiagaraExpansionMode__pf2855420827.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENiagaraExpansionMode__pf2855420827.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/GripEnum.GripEnum":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/GripEnum.GripEnum",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/GripEnum__pf563933975.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/GripEnum__pf563933975.cpp"
+		},
+		"/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Sky_Sphere__pf1379775596.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Sky_Sphere__pf1379775596.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/HMDLocomotionPawn__pf563933975.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/HMDLocomotionPawn__pf563933975.cpp"
+		},
+		"/Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_LightStudio__pf1079297466.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_LightStudio__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_CeilingLight__pf1079297466.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_CeilingLight__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Steam__pf1079297466.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Steam__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks.Blueprint_Effect_Sparks_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks.Blueprint_Effect_Sparks_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Sparks__pf1079297466.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Sparks__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Smoke__pf1079297466.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Smoke__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_WallSconce__pf1079297466.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_WallSconce__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Fire__pf1079297466.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Fire__pf1079297466.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/PickupActorInterface__pf563933975.h",
+			"generatedCppPath": ""
+		},
+		"/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MotionControllerPawn__pf563933975.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/MotionControllerPawn__pf563933975.cpp"
+		},
+		"/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C":
+		{
+			"assetType": "Class'/Script/Engine.AnimBlueprint'",
+			"targetObjPath": "/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/RightHand_AnimBP__pf558596347.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/RightHand_AnimBP__pf558596347.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_MotionController__pf563933975.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_MotionController__pf563933975.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/BP_Pin.BP_Pin_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/BP_Pin.BP_Pin_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Pin__pf563933975.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Pin__pf563933975.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/BP_PickupCubeTest.BP_PickupCubeTest_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/BP_PickupCubeTest.BP_PickupCubeTest_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_PickupCubeTest__pf563933975.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_PickupCubeTest__pf563933975.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_PickupCube__pf563933975.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_PickupCube__pf563933975.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/BP_BlackXT.BP_BlackXT_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/BP_BlackXT.BP_BlackXT_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_BlackXT__pf563933975.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_BlackXT__pf563933975.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Explosion__pf1079297466.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Explosion__pf1079297466.cpp"
+		},
+		"/Game/BluePrints/VRPlayer.VRPlayer_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/BluePrints/VRPlayer.VRPlayer_C",
+			"generatedHeaderPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/VRPlayer__pf2132744816.h",
+			"generatedCppPath": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/VRPlayer__pf2132744816.cpp"
+		}
+	},
+	"unconvertedDependencies":
+	{
+	},
+	"nativizationOptions":
+	{
+		"platformName": "WindowsNoEditor",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"bExcludeMonolithicHeaders": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}
