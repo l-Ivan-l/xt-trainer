@@ -2,15 +2,26 @@
 	"source": "UE",
 	"applications": [
 		{
+<<<<<<< HEAD
 			"app_key": "application.generated.ue.virtual-reality-bp-game-template-13942748.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "C:/Users/ivan_/Documents/School/7moSemestre/EnhancedVideoGameDesign/XT Trainer VR/xt-trainer/XT_Trainer/Config/SteamVRBindings/steamvr_manifest.json",
+=======
+			"app_key": "application.generated.ue.virtual-reality-bp-game-template-14469661.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/david/OneDrive/Documentos/GitHub/xt-trainer/XT_Trainer/Config/SteamVRBindings/steamvr_manifest.json",
+>>>>>>> master
 			"strings":
 			{
 				"en_us":
 				{
+<<<<<<< HEAD
 					"name": "Virtual Reality BP Game Template-13942748 [UE Editor]"
+=======
+					"name": "Virtual Reality BP Game Template-14469661 [UE Editor]"
+>>>>>>> master
 				}
 			}
 		}
