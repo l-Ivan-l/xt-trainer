@@ -94,6 +94,8 @@
 			"type": "boolean"
 		},
 		{
+<<<<<<< HEAD
+=======
 			"name": "/actions/main/in/ShootRight",
 			"type": "boolean"
 		},
@@ -102,6 +104,7 @@
 			"type": "boolean"
 		},
 		{
+>>>>>>> master
 			"name": "/actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d",
 			"type": "vector2"
 		},
@@ -118,6 +121,8 @@
 	],
 	"default_bindings": [
 		{
+<<<<<<< HEAD
+=======
 			"controller_type": "gamepad",
 			"binding_url": "gamepad.json"
 		},
@@ -162,6 +167,7 @@
 			"binding_url": "vive_tracker_camera.json"
 		},
 		{
+>>>>>>> master
 			"controller_type": "knuckles",
 			"binding_url": "knuckles.json"
 		},
@@ -228,8 +234,11 @@
 			"/actions/main/in/TeleportLeft": "TeleportLeft",
 			"/actions/main/in/GrabLeft": "GrabLeft",
 			"/actions/main/in/GrabRight": "GrabRight",
+<<<<<<< HEAD
+=======
 			"/actions/main/in/ShootRight": "ShootRight",
 			"/actions/main/in/ShootLeft": "ShootLeft",
+>>>>>>> master
 			"/actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d": "MotionControllerThumbLeft",
 			"/actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d": "MotionControllerThumbRight",
 			"/actions/main": "Main Game Actions"
