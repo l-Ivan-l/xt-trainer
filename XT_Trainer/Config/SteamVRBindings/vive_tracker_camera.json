@@ -52,8 +52,6 @@
 					}
 				},
 				{
-<<<<<<< HEAD
-=======
 					"mode": "button",
 					"path": "/user/hand/right/input/grip",
 					"inputs":
@@ -76,7 +74,6 @@
 					}
 				},
 				{
->>>>>>> master
 					"mode": "trackpad",
 					"path": "/user/hand/left/input/trackpad",
 					"inputs":
@@ -143,9 +140,5 @@
 			]
 		}
 	},
-<<<<<<< HEAD
-	"description": ""
-=======
 	"description": "Virtual Reality BP Game Template-14469661"
->>>>>>> master
 }
